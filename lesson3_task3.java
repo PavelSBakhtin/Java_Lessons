@@ -23,7 +23,7 @@ public class lesson3_task3 {
                 list.remove(i);
                 i--;
             } catch (Exception e) {
-                // System.out.println("-X-");
+                // System.out.println("nothing");
             }
         }
         System.out.println(list);
